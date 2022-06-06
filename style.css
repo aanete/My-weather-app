@@ -48,3 +48,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.footer {
+text-align: left;
+font-size: small;
+text-align: center;
+}
