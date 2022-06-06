@@ -1,0 +1,50 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+h2 {
+    font-size: 40px;
+    
+
+}
+
+.degrees {
+    text-align: center;
+}
+
+.now {
+    font-weight: 600;
+}
+
+.nextHours {
+    font-size: larger;
+}
+
+.nextDays {
+    text-align: center;
+}
+
+form {
+    padding: 20px 0;
+}
+
+.container {
+    border: 1px solid #9ea4a9;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 650px;
+    border-radius: 5px;
+}
+
+.temperature {
+    font-size: 70px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
