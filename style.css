@@ -31,10 +31,11 @@ form {
 
 .container {
     border: 1px solid #9ea4a9;
-    padding: 20px;
+       padding: 20px;
     margin: 20px auto;
     max-width: 650px;
     border-radius: 5px;
+    
 }
 
 .temperature {
